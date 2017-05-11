@@ -11,6 +11,8 @@ http://guolin.tech/api/weather/register
 
 http://guolin.tech/api/weather?cityId=CN101190401&key=bc0xxx
 
+http://console.heweather.com/my/service
+
 ## 项目架构
 LitePal作为ORM框架
 OkHttp用于网络请求
